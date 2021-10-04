@@ -1,0 +1,4 @@
+C:\_Release\MailServer\OpenPop.dll
+C:\_Release\MailServer\OpenPop.pdb
+E:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\obj\x86\Debug\OpenPop.dll
+E:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\obj\x86\Debug\OpenPop.pdb

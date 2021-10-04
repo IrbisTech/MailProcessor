@@ -1,0 +1,11 @@
+E:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\bin\x64\Debug\OpenPop.dll
+E:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\bin\x64\Debug\OpenPop.pdb
+E:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\bin\x64\Debug\OpenPop.xml
+E:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\bin\x64\Debug\OpenPop.tlb
+C:\_Release\MailServer\OpenPop.dll
+C:\_Release\MailServer\OpenPop.pdb
+C:\_Release\MailServer\OpenPop.tlb
+E:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\obj\x64\Debug\OpenPop.dll
+E:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\obj\x64\Debug\OpenPop.pdb
+E:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\obj\x64\Debug\OpenPop.csproj.CoreCompileInputs.cache
+E:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\obj\x64\Debug\OpenPop.csprojAssemblyReference.cache

@@ -1,0 +1,33 @@
+Z:\E\_DevelopmentX\_Utilities\OpenPop.NET 2.0.5\OpenPop.NET 2.0.5\source\OpenPop\bin\Debug\OpenPop.xml
+Z:\E\_DevelopmentX\_Utilities\OpenPop.NET 2.0.5\OpenPop.NET 2.0.5\source\OpenPop\bin\Debug\OpenPop.dll
+Z:\E\_DevelopmentX\_Utilities\OpenPop.NET 2.0.5\OpenPop.NET 2.0.5\source\OpenPop\bin\Debug\OpenPop.pdb
+Z:\E\_DevelopmentX\_Utilities\OpenPop.NET 2.0.5\OpenPop.NET 2.0.5\source\OpenPop\obj\Debug\ResolveAssemblyReference.cache
+Z:\E\_DevelopmentX\_Utilities\OpenPop.NET 2.0.5\OpenPop.NET 2.0.5\source\OpenPop\obj\Debug\OpenPop.dll
+Z:\E\_DevelopmentX\_Utilities\OpenPop.NET 2.0.5\OpenPop.NET 2.0.5\source\OpenPop\obj\Debug\OpenPop.pdb
+Z:\E\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\bin\Debug\OpenPop.xml
+Z:\E\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\bin\Debug\OpenPop.dll
+Z:\E\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\bin\Debug\OpenPop.pdb
+Z:\E\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\obj\Debug\ResolveAssemblyReference.cache
+Z:\E\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\obj\Debug\OpenPop.dll
+Z:\E\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\obj\Debug\OpenPop.pdb
+E:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\bin\Debug\OpenPop.xml
+E:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\bin\Debug\OpenPop.dll
+G:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\bin\Debug\OpenPop.xml
+G:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\bin\Debug\OpenPop.dll
+G:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\bin\Debug\OpenPop.pdb
+G:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\obj\Debug\ResolveAssemblyReference.cache
+G:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\obj\Debug\OpenPop.dll
+G:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\obj\Debug\OpenPop.pdb
+H:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\bin\Debug\OpenPop.xml
+H:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\bin\Debug\OpenPop.dll
+H:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\bin\Debug\OpenPop.pdb
+H:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\obj\Debug\OpenPop.dll
+H:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\obj\Debug\OpenPop.pdb
+C:\_Release\MailServer\OpenPop.dll
+C:\_Release\MailServer\OpenPop.pdb
+E:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\obj\Debug\OpenPop.csproj.CoreCompileInputs.cache
+E:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\obj\Debug\OpenPop.dll
+E:\_DevelopmentX\Image Tools X\POP3Server\source\OpenPop\obj\Debug\OpenPop.pdb
+E:\_DevelopmentX\GitHub\OpenPop\obj\Debug\OpenPop.csproj.CoreCompileInputs.cache
+E:\_DevelopmentX\GitHub\OpenPop\obj\Debug\OpenPop.dll
+E:\_DevelopmentX\GitHub\OpenPop\obj\Debug\OpenPop.pdb
